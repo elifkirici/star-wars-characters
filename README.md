@@ -1,1 +1,1 @@
-# star-wars-api
+# Star Wars Characters Project
